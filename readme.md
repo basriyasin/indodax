@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 <p align="center">
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg" style="height:"32px">
 <img src="https://www.shareicon.net/data/256x256/2015/09/11/99371_javascript_512x512.png" style="height: 32px">
 </p>
-=======
-[Laravel(https://laravel.com/assets/img/components/logo-laravel.svg)]
-[NodeJS(https://www.shareicon.net/data/256x256/2015/09/11/99371_javascript_512x512.png)]
->>>>>>> 2b7cad4873626f231663d0b11397da45b41a3992
 
 ## About
     
