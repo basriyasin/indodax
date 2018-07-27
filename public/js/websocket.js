@@ -6,6 +6,7 @@ var
 
 
 socket.on("public:App\\Events\\PriceUpdated", function (data) {
+    data.socket = undefined;
     container.innerHTML = '<pre class="col-md-12">'+ JSON.stringify(data, null ,4) +'</pre>';
     if(chart != null) {
         chart.addPoint(data.lastPrice, true, true);
