@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://laravel.com/assets/img/components/logo-laravel.svg" style="height:"32px">
-<img src="https://www.shareicon.net/data/256x256/2015/09/11/99371_javascript_512x512.png" style="height: 32px">
+<img src="https://laravel.com/assets/img/components/logo-laravel.svg" width="32px">
+<img src="https://www.shareicon.net/data/256x256/2015/09/11/99371_javascript_512x512.png" width="32px">
 </p>
 
 ## About
