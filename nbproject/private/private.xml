@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/kurosaki/www/indodax/app/Indodax.php</file>
+            <file>file:/home/kurosaki/www/indodax/config/app.php</file>
+            <file>file:/home/kurosaki/www/indodax/config/view.php</file>
+            <file>file:/home/kurosaki/www/indodax/app/Events/PriceUpdated.php</file>
+            <file>file:/home/kurosaki/www/indodax/resources/views/welcome.blade.php</file>
+            <file>file:/home/kurosaki/www/indodax/config/mail.php</file>
+            <file>file:/home/kurosaki/www/indodax/routes/web.php</file>
+            <file>file:/home/kurosaki/www/indodax/config/indodax.php</file>
+            <file>file:/home/kurosaki/www/indodax/.env</file>
+            <file>file:/home/kurosaki/www/indodax/server.js</file>
+            <file>file:/home/kurosaki/www/indodax/storage/app/public/aapl-ohlcv.json</file>
+        </group>
+    </open-files>
+</project-private>

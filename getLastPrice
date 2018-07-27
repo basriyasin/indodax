@@ -1,0 +1,6 @@
+#!/bin/sh
+while true
+do 
+	php artisan market:getPrice;
+	sleep 1;
+done
