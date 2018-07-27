@@ -1,5 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-<p align="center"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></p>
+<p align="center"><img src="https://www.shareicon.net/data/256x256/2015/09/11/99371_javascript_512x512.png"></p>
 
 ## About
     
