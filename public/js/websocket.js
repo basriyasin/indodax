@@ -13,6 +13,11 @@ socket.on("public:App\\Events\\PriceUpdated", function (data) {
     }
 });
 
+Highcharts.setOptions({
+	global: {
+		useUTC: false
+	}
+});
 
 $.getJSON('/history', function (data) {
 
@@ -82,4 +87,3 @@ $.getJSON('/history', function (data) {
         }]
     });
 });
-

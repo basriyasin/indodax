@@ -14,7 +14,7 @@
         <div class="flex-center position-ref full-height">
         </div>
         <div id="container" style="height: 400px; min-width: 310px"></div>
-        <div class="row" id="ws-content">
+        <div id="ws-content">
         </div>
     </body>
 
