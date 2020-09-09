@@ -75,7 +75,7 @@ $.getJSON('/history', function (data) {
                 }
             ],
             selected: 1,
-            inputEnabled: true
+            inputEnabled: false
         },
 
         series: [{
@@ -87,4 +87,3 @@ $.getJSON('/history', function (data) {
         }]
     });
 });
-
