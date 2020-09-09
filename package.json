@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "ioredis": "^3.2.2",
+    "shelljs": "^0.8.4",
     "socket.io": "^2.1.1",
     "socket.io-client": "^2.1.1"
   }

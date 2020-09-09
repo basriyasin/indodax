@@ -1,5 +1,6 @@
 #!/usr/bin/nodejs
 const   SOCKET_PORT = 9000,
+        SHELL = require("shelljs")
         REDIS = {
             host    : "127.0.0.1",
             port    : 6379,
@@ -37,7 +38,9 @@ redis.psubscribe('*', function(err, count) {
 
 redis.on('pmessage', function(subscribed, channel, data) {
     data = JSON.parse(data);
-    console.log(new Date);
-    console.log(data);
     io.emit(channel + ':' + data.event, data.data);
 });
+
+setInterval(() => {
+    SHELL.exec("php artisan market:getPrice")
+}, 1000);
